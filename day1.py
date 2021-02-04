@@ -9,5 +9,6 @@ for i, n1 in enumerate(list):
             if n1 + n2 + n3 == 2020:
                 part2 = n1 * n2 * n3
 
+
 print(part1)
 print(part2)
